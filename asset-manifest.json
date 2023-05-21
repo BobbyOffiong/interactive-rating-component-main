@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/interactive-rating-component-main/static/css/main.3110354e.css",
-    "main.js": "/interactive-rating-component-main/static/js/main.df7f867d.js",
-    "static/js/787.4e2c1e77.chunk.js": "/interactive-rating-component-main/static/js/787.4e2c1e77.chunk.js",
-    "static/media/illustration-thank-you.svg": "/interactive-rating-component-main/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
-    "index.html": "/interactive-rating-component-main/index.html",
-    "static/media/icon-star.svg": "/interactive-rating-component-main/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
-    "main.3110354e.css.map": "/interactive-rating-component-main/static/css/main.3110354e.css.map",
-    "main.df7f867d.js.map": "/interactive-rating-component-main/static/js/main.df7f867d.js.map",
-    "787.4e2c1e77.chunk.js.map": "/interactive-rating-component-main/static/js/787.4e2c1e77.chunk.js.map"
+    "main.css": "/faq-accordion-card-main/static/css/main.42155a00.css",
+    "main.js": "/faq-accordion-card-main/static/js/main.764bf314.js",
+    "static/media/illustrationWomanOnlineMobile.svg": "/faq-accordion-card-main/static/media/illustrationWomanOnlineMobile.fe928f9c476ef6d33267.svg",
+    "static/media/illustration-woman-online-desktop.svg": "/faq-accordion-card-main/static/media/illustration-woman-online-desktop.843eb114c7213a596ee2.svg",
+    "static/media/illustrationBoxDesktop.svg": "/faq-accordion-card-main/static/media/illustrationBoxDesktop.ec1ba14b853c562a6637.svg",
+    "index.html": "/faq-accordion-card-main/index.html",
+    "static/media/bgPatternDesktop.svg": "/faq-accordion-card-main/static/media/bgPatternDesktop.f51e07a2f52390c60484.svg",
+    "static/media/bgPatternMobile.svg": "/faq-accordion-card-main/static/media/bgPatternMobile.55aee9128a769eedabec.svg",
+    "static/media/icon-arrow-down.svg": "/faq-accordion-card-main/static/media/icon-arrow-down.852fa301a0e795e07c59.svg",
+    "main.42155a00.css.map": "/faq-accordion-card-main/static/css/main.42155a00.css.map",
+    "main.764bf314.js.map": "/faq-accordion-card-main/static/js/main.764bf314.js.map"
   },
   "entrypoints": [
-    "static/css/main.3110354e.css",
-    "static/js/main.df7f867d.js"
+    "static/css/main.42155a00.css",
+    "static/js/main.764bf314.js"
   ]
 }
